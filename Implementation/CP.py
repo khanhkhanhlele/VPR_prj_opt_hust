@@ -1,8 +1,7 @@
 from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
-import os
-# MAIN
 
+import os
 current_directory = os.getcwd()
 filename = os.path.join(current_directory, 'Test data', 'N_5_K_2.txt')
 
