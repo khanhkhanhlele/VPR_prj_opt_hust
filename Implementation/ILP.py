@@ -3,6 +3,9 @@ import time
 
 total_time = 0
 run_times = []
+import os
+current_directory = os.getcwd()
+filename = os.path.join(current_directory, 'Test data', 'N_5_K_2.txt')
 for i in range(50):
     start_time = time.time() 
     def solve_assignment_problem(N, K, d, t):
@@ -72,8 +75,7 @@ for i in range(50):
         else:
             return None
         
-    # MAIN
-    filename = r"C:\Users\Dell\OneDrive - Hanoi University of Science and Technology\Desktop\Data\Test data OpenERP\N_5_K_2.txt"
+    
     def INP(filename):
         with open(filename) as f:
             T = []
