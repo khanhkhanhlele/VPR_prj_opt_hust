@@ -1,0 +1,10 @@
+Objective: 861.0
+Time processing: 0.0546591
+Solution: 
+3
+2
+0 5 0 
+3
+0 4 3 0 
+3
+0 1 2 0 
