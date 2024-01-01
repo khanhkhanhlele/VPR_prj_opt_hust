@@ -1,0 +1,7 @@
+Objective value: 3750.0
+Running time: 0.10714364051818848
+Number of vehicles: 3
+Solution: 
+0 10 12 2 6 4 0 
+0 8 15 14 7 3 0 
+0 9 11 1 5 13 0 

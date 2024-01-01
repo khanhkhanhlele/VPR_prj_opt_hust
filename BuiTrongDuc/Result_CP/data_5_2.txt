@@ -1,5 +1,5 @@
 Objective: 360.0
-Time processing: 0.026582400000000003
+Time processing: 0.022777500000000003
 Solution: 
 2
 3
