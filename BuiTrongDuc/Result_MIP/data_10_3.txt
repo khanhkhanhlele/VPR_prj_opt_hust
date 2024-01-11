@@ -1,0 +1,10 @@
+Objective: 1884.9999999999998
+Time processing: 490090
+Solution: 
+3
+5
+0 10 8 2 9 0 
+4
+0 5 3 7 0 
+4
+0 4 6 1 0 

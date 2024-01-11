@@ -1,8 +1,8 @@
 Objective: 540.0
-Time processing: 244462
+Time processing: 219280
 Solution: 
 2
 6
-0 6 2 1 3 10 0 
+0 6 2 10 1 3 0 
 6
 0 5 8 9 4 7 0 
